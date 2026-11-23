@@ -1,6 +1,6 @@
 # Publications
 
-Peer-reviewed publications of **Vasavi Nallur Srinivasaraghavan**, spanning human iPSC-based disease modeling, gene-expression assay development, and neurodevelopmental research on Parkinson's disease and bipolar disorder.
+Peer-reviewed publications of **Vasavi Nallur Srinivasaraghavan**, spanning human iPSC-based disease modeling, gene-expression assay development, and neurological disease research on Parkinson's disease and bipolar disorder.
 
 ## Contents
 
@@ -61,7 +61,7 @@ This protocol was validated in publication 3 below.
 - Human iPSC-derived neurons and 3D cerebral organoids
 - CRISPR/Cas9 gene editing and isogenic disease models
 - qPCR assay design and differentiation-efficiency screening
-- Neurodevelopmental mechanisms in Parkinson's disease and bipolar disorder
+- Disease mechanisms in Parkinson's disease and bipolar disorder
 
 ## Notes
 
